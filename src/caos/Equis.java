@@ -11,4 +11,5 @@ package caos;
  */
 public class Equis {
     
+    String nombre;
 }
